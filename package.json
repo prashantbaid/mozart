@@ -1,0 +1,14 @@
+{
+  "name": "mozart",
+  "version": "0.0.1",
+  "description": "Stream Mozart music in lossless flac format",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Prashant Baid",
+  "license": "MIT",
+  "dependencies": {
+    "terminal-menu": "^2.1.1"
+  }
+}
